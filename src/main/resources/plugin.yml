@@ -1,0 +1,8 @@
+name: Chat-Service
+version: '${project.version}'
+main: de.mullabfuhr.chatservice.ChatService
+api-version: 1.18
+
+commands:
+  chat:
+    description: "Chat-Service"
